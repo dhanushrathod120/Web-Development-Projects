@@ -1,0 +1,7 @@
+Always memory points to hl pair only
+LXI,MVI,LDA,MOV...
+
+XCHG Exchanges data of H-L Pair with D-E Pair......
+
+STA IS opposite of lda ...sta 2003 stores the data in the accumulator in the address 2003
+wheras the lda 2000 stores the value at 2000 in the accumulator
