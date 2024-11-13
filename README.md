@@ -1,4 +1,4 @@
-** Screenshots of above projects **
+# Screenshots of above projects
 
 ![Temple](https://github.com/user-attachments/assets/13ed9820-a634-4a12-a095-7bea634b74dc)
 
